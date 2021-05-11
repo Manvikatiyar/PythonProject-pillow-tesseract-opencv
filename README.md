@@ -4,4 +4,4 @@ Take a ZIP file of images and process them, using a library built into python th
 
 Each page of the newspapers is saved as a single PNG image in a file called img.zip. These newspapers are in english, and contain a variety of stories, advertisements and images.
 
-Note: This file is fairly large (~200 MB) and may take some time to work with, I would encourage you to use small_img.zip for testing.
+Note: This file is fairly large (~200 MB) and may take some time to work with - for me it took nearly 10 minutes! , I would encourage you to use small_img.zip for testing. 
